@@ -9,17 +9,17 @@ comandi aggiuntivi frequentemnte con nuove funzionalità
 
 Comandi di termux 
 
-termux-setup-storage
-apt update 
-pkg upgrade 
-pkg install git -y
-pkg install nodejs -y
-pkg install ffmpeg -y
-pkg install imagemagick -y
-pkg install yarn
-cd /sdcard/varebot
-yarn install
-npm start 
+termux-setup-storage |
+apt update |
+pkg upgrade |
+pkg install git -y |
+pkg install nodejs -y |
+pkg install ffmpeg -y |
+pkg install imagemagick -y |
+pkg install yarn |
+cd /storage/downloads/varebot |
+yarn install |
+npm start |
 
 " node . " per riavvio automatico 
 
