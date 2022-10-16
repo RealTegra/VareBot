@@ -53,11 +53,15 @@
  node . 
  ``` 
 ## 🌟 CREATORE: VARE
+
+
+[![vare](https://github.com/realvare.png?size=150)](https://github.com/realvare) 
+
 ## 🍭 PUBBLICAZIONE: AMNESIA
 
 
 
- [![Amnesia](https://github.com/AmnesiaReal.png?size=150)](https://github.com/AmnesiaReal) 
+[![Amnesia](https://github.com/AmnesiaReal.png?size=150)](https://github.com/AmnesiaReal) 
 
 
 
