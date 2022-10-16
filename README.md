@@ -1,4 +1,3 @@
-#VareBot
 VareBot è un derivato di GataBot-MD con alcune caratteristiche in più.
 
 Per iniziare bisognare sapere che vare non ha voglia di fare niente quindi molto probabilmente gli aggiornamenti del bot verrano solo fatti da me lol
