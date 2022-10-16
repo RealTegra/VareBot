@@ -7,7 +7,7 @@
 - ㌌ questo bot può essere utilizzato anche su whatsapp normale o business, essendo multi device //
              this bot can also be used by normal or business whatsapp, being multi device
 
-^ Ti serve aiuto? 'wa.me/16176904612' < Amnesia '687989899' < vare
+^ Ti serve aiuto? `wa.me/16176904612` < Amnesia `687989899` < vare
 
  -----  
 
@@ -22,6 +22,7 @@
  ------------------ 
   
 ### - SCRIVI I SEGUENTI COMANDI UNO ALLA VOLTA SU TERMUX
+## - Ricordati di scaricare lo zip <3
 
  ```bash 
  termux-setup-storage 
