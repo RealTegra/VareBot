@@ -1,0 +1,1 @@
+let linkRegex=/wa.me\/([0-9])/i;export async function before(a,{isAdmin:b,isBotAdmin:e}){if(a.isBaileys&&a.fromMe)return!0;if(!a.isGroup)return!1;let c=global.db.data.chats[a.chat];global.db.data.settings[this.user.jid];let d=linkRegex.exec(a.text);return c.antiLink&&d&&!b&&await conn.groupParticipantsUpdate(a.chat,[a.sender],"remove"),!0}
