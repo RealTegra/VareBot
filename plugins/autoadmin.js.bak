@@ -1,9 +1,0 @@
-import fs from 'fs'
-function handler(m, { conn }) {
-let text = `*[ ¡ ]* comando non valido se non si paga la tassa di ammissione alla materna *paypal.me/realvare*`.trim()   
-conn.reply(m.chat, text, m, {
-})
-}
-handler.command = /^(autoadmin)/i
-export default handler
-
