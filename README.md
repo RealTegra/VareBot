@@ -1,13 +1,13 @@
-# vare bot 
+# VareBot 💫
 ### Bot derivato da GataBot-MD
-- 令 Modificato da Vare 
-- 令 Pubblicato da Amnesia
+- 令 Modificato da Vare 🏓
+- 令 Pubblicato da Amnesia 🍭
 - ✧ Base by `https://github.com/GataNina-Li // GataBot-MD`
-- 紗 Versione: Alpha (Work in progess)
+- 紗 Versione: Alpha (Work in progess) ❗
 - ㌌ questo bot può essere utilizzato anche su whatsapp normale o business, essendo multi device //
              this bot can also be used by normal or business whatsapp, being multi device
 
-^ Ti serve aiuto? `wa.me/16176904612` < Amnesia `687989899` < vare
+💫 Ti serve aiuto? `wa.me/16176904612` < Amnesia `687989899` < vare 💫
 
  -----  
 
@@ -15,14 +15,14 @@
  [![blog](https://img.shields.io/badge/gruppo/angels-25D366?style=for-the-badge&logo=whatsapp&logoColor=white  
  )](https://chat.whatsapp.com/KdJNn1xjtQK6At66FAsz6o) 
  ----- 
-## PayPal
+## PayPal 🤑
  
 ```PAYPAL``` [`Paypal di Vare`](https://paypal.me/realvare) 
 ```PAYPAL```[`PayPal di Amnesia`](https://paypal.me/NoTlamucci)
  ------------------ 
   
-### - SCRIVI I SEGUENTI COMANDI UNO ALLA VOLTA SU TERMUX
-## - Ricordati di scaricare lo zip <3
+### - SCRIVI I SEGUENTI COMANDI UNO ALLA VOLTA SU TERMUX ❗
+## - Ricordati di scaricare lo zip 💖
 
  ```bash 
  termux-setup-storage 
@@ -67,7 +67,7 @@
 
 
 
-### clicca sulla foto di ciccio <3
+### clicca sulla foto di ciccio 💖
 
 
 [![sesso grr](https://img.youtube.com/vi/L17ZAD2iHjo/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
