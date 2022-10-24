@@ -21,8 +21,6 @@
 ## PayPal y = k • x = k = x/y
  
 ```PAYPAL```  [`paypal > vare`](https://paypal.me/realvare) 
-
-```PAYPAL```  [`paypal > amnesia`](https://paypal.me/NoTlamucci)
  
 ------------------ 
   
