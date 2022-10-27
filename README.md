@@ -62,7 +62,7 @@
 
 [![vare](https://github.com/realvare.png?size=100)](https://github.com/realvare) 
 
-### 🍭 PUBBLICAZIONE: AMNESIA
+### 🍭 PUBBLICATO DA: AMNESIA
 
 
 
