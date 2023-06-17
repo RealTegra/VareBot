@@ -1,3 +1,11 @@
+# ma che è varebot?
+Varebot è un bot per whatsapp come quelli che trovi su telegram. Attualmente ha una base di gatabot-md ma pensiamo di cambiarla a breve
+
+precisamente questo bot è la veriante amnesia quindi funziona e si avvia, diffidate delle imitazioni
+
+
+
+
 # vare bot 🥀
 - 令 modificato by vare 
 - 令 Pubblicato da Amnesia 🍭
